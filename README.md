@@ -1,2 +1,5 @@
 # Hello-Developer
-Just another repository
+
+Hi Heamia,
+
+Robot Here, I like Node.JS and AngularJS.
